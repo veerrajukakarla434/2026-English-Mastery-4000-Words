@@ -1,5 +1,27 @@
 # 📚 English Mastery Journey
 
+```text
+English-Mastery-4000-Words/
+│
+├── README.md
+│
+├── 01_Daily_English.md      (#1–#1000)
+├── 02_Business_English.md   (#1001–#2000)
+├── 03_Workplace_English.md  (#2001–#2500)
+├── 04_IT_English.md         (#2501–#3500)
+├── 05_Advanced_English.md   (#3501–#4000)
+│
+├── Weekly_Revision.md
+├── Monthly_Revision.md
+├── Speaking_Practice.md
+├── Business_Idioms.md
+├── Phrasal_Verbs.md
+├── Confused_Words.md
+└── Resources.md
+```
+
+
+
 > **"Small improvements every day lead to remarkable results over time."**
 
 Welcome to my **English Mastery Journey**.
