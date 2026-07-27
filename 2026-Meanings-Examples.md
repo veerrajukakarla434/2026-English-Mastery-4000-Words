@@ -12,3 +12,50 @@
 |    7    | alongside   | /əˌlɒŋˈsaɪd/      | Preposition / Adverb | Next to; together with. *(Similar: together with, beside, with)*                                       | She worked alongside her manager on the project.              | work alongside, develop alongside, grow alongside, collaborate alongside            | Engineers worked alongside product managers to finalise the architecture. |                     |        ☐       |
 |    8    | pivotal     | /ˈpɪvətl/         | Adjective            | Extremely important; playing a key role in something. *(Similar: crucial, critical, key, significant)* | Communication played a pivotal role in the project's success. | pivotal role, pivotal decision, pivotal moment, pivotal factor                      | Kafka plays a pivotal role in our event-driven architecture.              |                     |        ☐       |
 |    9    | vital       | /ˈvaɪtl/          | Adjective            | Absolutely necessary or essential. *(Similar: essential, crucial, necessary, indispensable)*           | Regular practice is vital for improving your English.         | vital information, vital component, vital skill, vital resource                     | Monitoring is vital for maintaining production reliability.               |                     |        ☐       |
+
+
+
+
+## Word #1 - Despite
+
+**Pronunciation:** /dɪˈspaɪt/
+
+**Part of Speech:** Preposition
+
+**Meaning (Simple + Similar Words):**
+Even though; without being affected by something.
+**Similar:** regardless of, notwithstanding
+
+**Simple Example**
+> Despite the rain, we played cricket.
+
+**Common Collocations**
+- despite challenges
+- despite issues
+- despite delays
+- despite efforts
+
+**Business/Technical Example**
+> Despite heavy traffic, the microservice maintained low latency.
+
+**My Own Sentence**
+> ______________________________
+
+**Revision**
+- [ ] Revised
+
+
+## Word #1
+
+| Field | Value |
+|-------|-------|
+| Word | Despite |
+| Pronunciation | /dɪˈspaɪt/ |
+| Part of Speech | Preposition |
+| Meaning | Even though; without being affected by something. |
+| Similar Words | regardless of, notwithstanding |
+| Simple Example | Despite the rain, we played cricket. |
+| Common Collocations | despite challenges, despite issues, despite delays |
+| Business Example | Despite heavy traffic, the microservice maintained low latency. |
+| My Own Sentence | |
+| Revision | ☐ |
