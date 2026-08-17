@@ -1,5 +1,7 @@
 # 01_Daily_English.md
 
+* Getting English words and meanings from here -> https://chatgpt.com/c/6a669ac7-2aec-83e8-8858-8d8019fc403e
+
 | Range      | Focus                             |
 | ---------- | --------------------------------- |
 | #1–#100    | The most common everyday words    |
