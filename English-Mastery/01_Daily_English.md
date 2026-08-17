@@ -141,8 +141,6 @@
 
 # 📚 Daily English Vocabulary — #1–#1000
 
-# 📚 Daily English Vocabulary
-
 ## Words #1–#10
 
 | No. | Word | Part of Speech | Meaning (Simple + Similar Words) | Simple Example | Common Collocations | Business/Technical Example | My Own Sentence |
@@ -176,8 +174,3 @@
 
 **Next:** Words #21–#30
 
-## Progress
-
-- Last Completed Word: **#10**
-- Next Words: **#11–#20**
-- Total Words Learned: **10 / 1000**
